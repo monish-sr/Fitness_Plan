@@ -1,4 +1,4 @@
-# Fitness_Plan
+# Personalized_Fitness_Plan_kNN
 This project creates a Fitness Plan Recommendation System using the K-Nearest Neighbors (KNN) algorithm to predict personalized fitness plans based on user data, including fitness goals, activity levels, and dietary preferences. The model is evaluated using a confusion matrix and classification metrics, offering accurate fitness plan recommendations.
 
 ## Project Overview
